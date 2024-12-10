@@ -115,26 +115,3 @@ This setup ensures reminders are processed at regular intervals without manual i
 3. **Process Reminders**: Let the automated cron job handle reminders once their due dates are reached.
 4. **Trigger Actions**: POST requests are sent to the specified URLs when reminders are processed.
 
----
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvement or want to report issues, please open an issue or create a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Acknowledgments
-
-- Supabase for its powerful database and hosting solutions.
-- Localtunnel for easy server exposure.
-
----
-
-Happy reminding! 🚀
-
